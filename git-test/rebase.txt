@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is the test file for rebase
+=======
+this is the test file for rebase
+this is the second line
+>>>>>>> 3126f76 (another commit)
