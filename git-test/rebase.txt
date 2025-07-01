@@ -1,3 +1,0 @@
-this is the test file for rebase
-this is the second line
-this is the third line
